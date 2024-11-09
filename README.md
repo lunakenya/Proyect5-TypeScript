@@ -1,4 +1,4 @@
-# Project JavaScript
+# Project TypeScript
 
 ## Name
 
@@ -38,4 +38,7 @@ docker pull luna28kenya412/my-react-app
 ```
 
 ## Evidences
+![imagen](https://github.com/user-attachments/assets/f0a6046b-4777-4fb9-a878-1061e67bcf2a)
+![imagen](https://github.com/user-attachments/assets/a0ed6077-a67e-47de-b1b2-499f5158b741)
+
 
