@@ -22,8 +22,12 @@ FROM nginx:stable-alpine
 # Copy the React build files to the default Nginx directory
 COPY --from=build /app/build /usr/share/nginx/html
 
+# Copy the custom Nginx configuration to ensure it listens on port 8085
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+
 # Expose port 8085 to make the application accessible externally
 EXPOSE 8085
 
 # Start Nginx in the foreground to serve the React application
 CMD ["nginx", "-g", "daemon off;"]
+
