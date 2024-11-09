@@ -18,7 +18,7 @@
 ### Clone the Repository
 
 ```sh
-git clone 
+git clone https://github.com/lunakenya/Proyect5-TypeScript.git
 ```
 
 ## Program Execution
