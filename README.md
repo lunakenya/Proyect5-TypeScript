@@ -38,8 +38,10 @@ docker pull luna28kenya412/my-react-app
 ```
 
 ## Evidences
+-Here are some screenshots of the project running 
 ![imagen](https://github.com/user-attachments/assets/f0a6046b-4777-4fb9-a878-1061e67bcf2a)
 ![imagen](https://github.com/user-attachments/assets/a0ed6077-a67e-47de-b1b2-499f5158b741)
+link of Digital Ocean:https://typescript-ottf4.ondigitalocean.app/
 ![imagen](https://github.com/user-attachments/assets/b2447114-d571-4ba5-a625-0dd7e21fd1cc)
 
 
