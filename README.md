@@ -6,14 +6,17 @@
 
 ## Table of Contents
 
-1. [Installation](#installation)
+1. [Overview](#overview)
+2. [Installation](#installation)
    - [Clone the Repository](#clone-the-repository)
-2. [Program Execution](#program-execution)
+3. [Program Execution](#program-execution)
    - [Run the Application](#run-the-application)
-3. [DockerHub](#dockerhub)
+4. [DockerHub](#dockerhub)
    - [DockerHub Repository](#dockerhub-repository)
-4. [Evidences](#evidences)
+5. [Evidences](#evidences)
 
+## Overview
+This project is a TypeScript application leveraging modern web development technologies to provide an optimized experience. The application is designed to run both locally and in containerized environments, making it easy to deploy on platforms like Docker and DigitalOcean. The codebase is managed in a GitHub repository, enabling a quick and straightforward setup through CLI commands.
 ## Installation
 #Install Dependencies
 
