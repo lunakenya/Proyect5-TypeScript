@@ -15,6 +15,15 @@
 4. [Evidences](#evidences)
 
 ## Installation
+#Install Dependencies
+
+Navigate to the project folder and run the following command to install all required dependencies:
+```sh
+npm install
+```
+```sh
+npm start
+```
 ### Clone the Repository
 
 ```sh
@@ -35,6 +44,9 @@ Open a Web Browser: Launch your preferred web browser.
 Docker Pull Command
 ```sh
 docker pull luna28kenya412/my-react-app
+```
+```sh
+docker run -d -p 8085:8085 --name proyecto-goluna28kenya412/my-react-app
 ```
 
 ## Evidences
